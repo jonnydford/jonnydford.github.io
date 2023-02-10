@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'jonnydford'
 
 theme = "m10c"
+author = 'Jonny Ford'
+
+[[params]]
+author = 'Jonny Ford'
+avatar = ""
+description = 'Senior Engineering Manager of Data Platforms at Just Eat Takeaway.com'
 
 [[params.social]]
   icon = "github"
