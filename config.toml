@@ -2,9 +2,9 @@ baseURL = 'https://jonnydford.github.io/'
 languageCode = 'en-us'
 title = 'jonnydford'
 
+theme = "m10c"
 
 [[params.social]]
   icon = "github"
   name = "Github"
   url = "https://github.com/jonnydford"
-
